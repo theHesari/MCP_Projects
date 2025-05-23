@@ -32,3 +32,14 @@ This repository contains AI projects developed using the Model Context Protocol 
 
    You can now connect and test your tools through the MCP interface.
    ```
+
+3. **3_research_client.py**  
+   The client-side implementation that connects to the MCP server. To set up:
+
+   ```bash
+   # 1. Install required dependency
+   uv add nest_asyncio
+
+   # 2. Run the AI application
+   uv run 3_research_client.py
+   ```
