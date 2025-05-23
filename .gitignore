@@ -175,3 +175,8 @@ cython_debug/
 
 # Created Folders by code
 papers/
+
+.python-version
+*.toml
+*.lock
+main.py
